@@ -2,3 +2,5 @@ hello good morning
 hi
 nice to meet you
 yoooo!!!!!!!!!!
+
+we are learning git
